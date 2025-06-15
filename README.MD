@@ -1,4 +1,4 @@
-# Machine Learning Project - Dicoding Submission
+# Machine Learning Project - Dicoding 
 
 Repositori ini merupakan submission akhir untuk kelas **Membangun Proyek Machine Learning** dari Dicoding.
 
@@ -34,18 +34,17 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
 
 ## Cara Menjalankan
 1. Clone repository:
-   ```bash
-git clone https://github.com/LouisJonathan88/machine-learning-project-dicoding.git
-cd machine-learning-project-dicoding
-```
+     ```bash
+   git clone https://github.com/LouisJonathan88/machine-learning-project-dicoding.git
+   cd machine-learning-project-dicoding
+   ```
+2. Install dependensi:
+- pip install pandas
+- pip install numpy
+- pip install scikit-learn
+- pip install matplotlib
+- pip insall seaborn
 
-2. Install Dependensi:
-```bash
-pip install pandas scikit-learn matplotlib seaborn
-```
-
-3. Jalankan Jupyter Notebook:
-```bash
+3. Jalankan program:
 jupyter notebook
-```
 
