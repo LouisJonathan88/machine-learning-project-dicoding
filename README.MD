@@ -46,5 +46,7 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
 - pip insall seaborn
 
 3. Jalankan program:
-jupyter notebook
+```bash
+   jupyter notebook
+```
 
