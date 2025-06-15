@@ -39,12 +39,12 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
    cd machine-learning-project-dicoding
    ```
 2. Install dependensi:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-```
+   ```bash
+   pip install pandas numpy scikit-learn matplotlib seaborn
+   ```
 
 3. Jalankan program:
-```bash
+   ```bash
    jupyter notebook
-```
+   ```
 
