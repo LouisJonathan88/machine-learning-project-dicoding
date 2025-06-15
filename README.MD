@@ -6,7 +6,7 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
 
 ---
 
-## 🧠 Alur Proyek
+## Alur Proyek
 
 1. **Clustering** (`Clustering.ipynb`)
    - Melakukan preprocessing dataset
@@ -24,5 +24,17 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
 
 ---
 
-## 📁 Struktur Folder
+## Teknologi & Library
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- Seaborn
+
+## Cara Menjalankan
+- git clone https://github.com/LouisJonathan88/machine-learning-project-dicoding.git
+cd machine-learning-project-dicoding
+
 
