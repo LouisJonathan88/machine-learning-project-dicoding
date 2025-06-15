@@ -34,7 +34,16 @@ Project ini memuat proses end-to-end dari *unsupervised learning* (clustering) h
 - Seaborn
 
 ## Cara Menjalankan
-- git clone https://github.com/LouisJonathan88/machine-learning-project-dicoding.git
+1. Clone repository:
+   ```bash
+git clone https://github.com/LouisJonathan88/machine-learning-project-dicoding.git
 cd machine-learning-project-dicoding
 
+2. Install Dependensi:
+```bash
+pip install pandas scikit-learn matplotlib seaborn
+
+3. Jalankan Jupyter Notebook:
+```bash
+jupyter notebook
 
